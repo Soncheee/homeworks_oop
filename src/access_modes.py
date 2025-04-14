@@ -49,12 +49,12 @@ class Category:
             for product in self.__products
         )
 
-# Пример использования
-category = Category("Electronics")
-product1 = Product("Smartphone", 599, 15)
-product2 = Product("Laptop", 999, 40)
 
-category.add_product(product1)
-category.add_product(product2)
+# category = Category("Electronics")
+# product1 = Product("Smartphone", 599, 15)
+# product2 = Product("Laptop", 999, 40)
 
-print(category.products_list)
+# category.add_product(product1)
+# category.add_product(product2)
+
+# print(category.products_list)
