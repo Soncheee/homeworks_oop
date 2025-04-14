@@ -45,5 +45,5 @@
     assert new_product.quantity == 5
     assert new_product.price == 180000.0
 ```
-![](https://i.pinimg.com/736x/50/ed/2f/50ed2fdd65f3147bfdb519870e21aaf0.jpg)
 
+![](https://i.pinimg.com/736x/50/ed/2f/50ed2fdd65f3147bfdb519870e21aaf0.jpg)
