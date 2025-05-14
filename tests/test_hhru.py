@@ -58,4 +58,3 @@ def test_load_vacancies(mock_get):
 
     assert len(vacancies) == 20
     assert vacancies[0]['name'] == 'Developer'
-
